@@ -1,0 +1,7 @@
+LDAP_SERVER = 'ldap.localhost.com'
+LDAP_USER = "cn=myprefix00921,cn=Users,dc=ent,dc=localhost,dc=com"
+LDAP_PASS = "mysecretpass"
+LDAP_USER_BASE = 'CN=Users,DC=ent,DC=localhost,DC=com'
+
+NEW_USERNAMES_PREFIX = "myprefix"
+EXCEL_DOCUMENT = "docs/ids.xls"
